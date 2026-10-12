@@ -1,0 +1,10 @@
+Applied AI Engineer Intern
+
+Required skills:
+Python, Machine Learning, Deep Learning, NLP, TensorFlow, Pandas, NumPy,
+Scikit-learn, Generative AI, REST API, Git, Problem Solving, SQL.
+
+Responsibilities:
+Build data preprocessing pipelines, experiment with ML models, evaluate model
+performance, prototype AI-powered applications, document experiments, and work
+with engineers to test and improve solutions.
